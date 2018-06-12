@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 防災×観光×地図
 
 You can use the [editor on GitHub](https://github.com/furuhashilab/www4yamaguchishiori/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
