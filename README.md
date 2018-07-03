@@ -1,8 +1,6 @@
 ## 山口詩織の卒論用サイト！
 
-概要 use the [editor on GitHub](https://github.com/furuhashilab/www4yamaguchishiori/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+東京都渋谷区の観光地や避難所を記載した、見やすくてデザイン性のある手に取りやすいマップ兼パンフレットを作りたい！
 
 ### ブログ：medium
 
