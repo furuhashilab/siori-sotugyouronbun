@@ -1,8 +1,8 @@
-## 山口詩織の卒論用サイト
+## open street mapに避難所情報を入力する
 
-東京都渋谷区の観光地や避難所を記載した、見やすくてデザイン性のある手に取りやすいマップ兼パンフレットを作りたい！
+地震が起きた時、誰もが使えるosmで避難所情報が見れるようにする。
 
-### ブログ：medium
+### 現在の状況：OSM
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
