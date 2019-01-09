@@ -14,23 +14,7 @@
 
 具体的なデータ作成手法として、政府標準利用規約に則り公開されている国土地理院の地理院地図 指定緊急避難場所の地図情報より避難所情報をリストアップし、既存のOpenStreetMap登録データと比較を行った結果の現状で避難所タグが入力されていないのを確認した。その後OpenStreetMapで避難所タグの種類を調査し、現時点ではemergency＝assembly_point タグが適当であると判断して避難場所と広域避難場所として該当するエリア及び建物にその情報を付加した。
 
-```markdown
 
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
