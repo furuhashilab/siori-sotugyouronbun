@@ -10,7 +10,7 @@
 方法として、目黒区公式サイトと国土地理院の地理院地図指定緊急避難場所の地図情報から避難所をリストアップし、OpenStreetMapの現状で避難所タグが入力されていないのを確認した。その後OpenStreetMapで避難所のタグの種類を調査し、emergency＝assembly＿pointのタグが適当であるとして避難場所と広域避難場所に該当する建物に情報を入力した。
 
 ```markdown
-結果として、まず避難所と避難場所に使用するemergency=assembly_pointのタグの日本語訳ページを作成し、OpenStreetMapの目黒地区においてまだ入力されていない避難所情報を新しく57箇所入力した。渋谷区と目黒区の調査を通して、避難所や避難場所の定義は同じだが区ごとで分類方法が異なることが分かった。又OpenStreetMapにおける帰宅困難者支援施設に該当するタグのみがまだなかった為、共同研究にて帰宅困難者支援施設のタグを考察しOpenStreetMap Wikiに新たなタグとして提案した。
+、
 
 # Header 1
 ## Header 2
@@ -31,12 +31,11 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Activity
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/furuhashilab/www4yamaguchishiori/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+結果として、まず避難所と避難場所に使用するemergency=assembly_pointのタグの日本語訳ページを作成し、OpenStreetMapの目黒地区においてまだ入力されていない避難所情報を新しく57箇所入力した。渋谷区と目黒区の調査を通して、避難所や避難場所の定義は同じだが区ごとで分類方法が異なることが分かった。又OpenStreetMapにおける帰宅困難者支援施設に該当するタグのみがまだなかった為、共同研究にて帰宅困難者支援施設のタグを考察しOpenStreetMap Wikiに新たなタグとして提案した。
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
+このタグの議論はこれから始まりに投票で正式に決定するので、正式なタグとして該当する建物に入力することがこれからの課題である。避難所タグを災害ごとに分けること、避難所以外の災害支援施設の入力が未着手である。避難所と避難場所は日本では区別すべきとされているが、OpenStreetMapでは同じタグとして区別されていたので検討のすべき点である。本研究によってOpenStreetMapの目黒地区における避難所と広域避難所の情報の入力が完了し、日本において重要性の高い帰宅困難者支援施設のタグを新たに提案することができた。
 ### new
 
 new
