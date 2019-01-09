@@ -16,7 +16,7 @@
 
 
 2）OpenStreetMapタグの定義
-現時点でのOpenStreetMapでの避難所として定義できるのは、避難小屋のタグamenity=shelter,一時集合場所のsocial_facility=shelter,emergency=assembly_pointの三つがあった。避難小屋は悪天候の際に避難ができる小さい小屋であるので、現時点ではemergency＝assembly_pointタグが指定緊急避難場所及び指定緊急避難所のタグとして適当であると判断し、避難所と広域避難所として該当するエリア及び建物にその情報を付加した。情報を付加する際に、OpenStreetMap　Wikiのemergency=assembly_pointの日本語翻訳ページの作成もまた行った。
+現時点でのOpenStreetMapでの避難所として定義できるのは、避難小屋のタグ[amenity=shelter](https://wiki.openstreetmap.org/wiki/JA:Tag:amenity%3Dshelter),一時集合場所の[social_facility=shelter](https://wiki.openstreetmap.org/wiki/JA:Tag:social_facility%3Dshelter),[emergency=assembly_point](https://wiki.openstreetmap.org/wiki/Tag:emergency%3Dassembly_point)の三つがあった。避難小屋は悪天候の際に避難ができる小さい小屋であるので、現時点ではemergency＝assembly_pointタグが指定緊急避難場所及び指定緊急避難所のタグとして適当であると判断し、避難所と広域避難所として該当するエリア及び建物にその情報を付加した。情報を付加する際に、OpenStreetMap　Wikiのemergency=assembly_pointの[日本語翻訳ページ](https://wiki.openstreetmap.org/wiki/JA:Tag:emergency%3Dassembly_point)の作成もまた行った。
 
 ### 3.成果
 
