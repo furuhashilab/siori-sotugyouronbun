@@ -16,11 +16,11 @@
 ![避難所情報が入力されていない状態。](https://github.com/furuhashilab/siori-sotugyouronbun/blob/image/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202019-01-09%2021.17.20.png)
 
 2）OpenStreetMapタグの定義
-現時点でのOpenStreetMapでの避難所として定義できるのは、避難小屋のタグ[amenity=shelter](https://wiki.openstreetmap.org/wiki/JA:Tag:amenity%3Dshelter),一時集合場所の[social_facility=shelter](https://wiki.openstreetmap.org/wiki/JA:Tag:social_facility%3Dshelter),[emergency=assembly_point](https://wiki.openstreetmap.org/wiki/Tag:emergency%3Dassembly_point)の三つがあった。避難小屋は悪天候の際に避難ができる小さい小屋であるので、現時点ではemergency＝assembly_pointタグが指定緊急避難場所及び指定緊急避難所のタグとして適当であると判断し、避難所と広域避難所として該当するエリア及び建物にその情報を付加した。情報を付加する際に、OpenStreetMap　Wikiのemergency=assembly_pointの[日本語翻訳ページ](https://wiki.openstreetmap.org/wiki/JA:Tag:emergency%3Dassembly_point)の作成もまた行った。
+現時点でのOpenStreetMapでの避難所として定義できるのは、避難小屋のタグ[amenity=shelter](https://wiki.openstreetmap.org/wiki/JA:Tag:amenity%3Dshelter),一時集合場所のタグ[social_facility=shelter](https://wiki.openstreetmap.org/wiki/JA:Tag:social_facility%3Dshelter),未翻訳だった[emergency=assembly_point](https://wiki.openstreetmap.org/wiki/Tag:emergency%3Dassembly_point)の三つであった。避難小屋は悪天候の際に避難ができる小さい小屋であるので、現時点ではemergency＝assembly_pointタグが指定緊急避難場所及び指定緊急避難所のタグとして適当であると判断し、避難所と広域避難所として該当するエリア及び建物にその情報を付加した。情報を付加する際にまずOpenStreetMap　Wikiのemergency=assembly_pointの[日本語翻訳ページ](https://wiki.openstreetmap.org/wiki/JA:Tag:emergency%3Dassembly_point)の作成に着手した。
 
 ### 3.成果
 
-結果として、目黒区における避難所情報を新規に57箇所入力することができた。また隣接する渋谷区と目黒区との比較調査を通して、避難所や避難場所の定義は同じだが区ごとで分類方法が異なることも明らかになった。例えば目黒区では避難所という区別しかなかったが、渋谷区は加えて避難場所、一時集合場所、帰宅困難者支援施設等より細かく分類されている。又OpenStreetMapにおける帰宅困難者支援施設に該当するタグのみが存在しなかった為、帰宅困難者支援施設のタグを考察しOpenStreetMap Wikiに新たなタグとして提案することができた。
+結果として、目黒区における避難所情報を新規に57箇所入力することができた。また隣接する渋谷区と目黒区との比較調査を通して、避難所や避難場所の定義は同じであっても区ごとで分類方法が異なることも明らかになった。例えば目黒区では避難所という区別しかなかったが、渋谷区は加えて避難場所、一時集合場所、帰宅困難者支援施設等とより細かく分類されている。更にOpenStreetMapにおける帰宅困難者支援施設に該当するタグのみが存在しなかった為、帰宅困難者支援施設のタグを考察しOpenStreetMap Wikiに新たなタグとして提案することができた。
 ![避難所情報入力後](https://github.com/furuhashilab/siori-sotugyouronbun/blob/master/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202019-01-08%2020.08.38.png)
 
 
