@@ -13,7 +13,7 @@
 
 1)データ収集
 具体的なデータ作成手法として、政府標準利用規約に則り公開されている国土地理院の地理院地図 指定緊急避難場所の地図情報より避難所情報をリストアップし、既存のOpenStreetMap登録データと比較を行った結果の現状で避難所タグが入力されていないのを確認した。
-![,](https://github.com/furuhashilab/siori-sotugyouronbun/blob/image/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202019-01-09%2021.17.20.png)
+![避難所情報が入力されていない状態。](https://github.com/furuhashilab/siori-sotugyouronbun/blob/image/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202019-01-09%2021.17.20.png)
 
 2）OpenStreetMapタグの定義
 現時点でのOpenStreetMapでの避難所として定義できるのは、避難小屋のタグ[amenity=shelter](https://wiki.openstreetmap.org/wiki/JA:Tag:amenity%3Dshelter),一時集合場所の[social_facility=shelter](https://wiki.openstreetmap.org/wiki/JA:Tag:social_facility%3Dshelter),[emergency=assembly_point](https://wiki.openstreetmap.org/wiki/Tag:emergency%3Dassembly_point)の三つがあった。避難小屋は悪天候の際に避難ができる小さい小屋であるので、現時点ではemergency＝assembly_pointタグが指定緊急避難場所及び指定緊急避難所のタグとして適当であると判断し、避難所と広域避難所として該当するエリア及び建物にその情報を付加した。情報を付加する際に、OpenStreetMap　Wikiのemergency=assembly_pointの[日本語翻訳ページ](https://wiki.openstreetmap.org/wiki/JA:Tag:emergency%3Dassembly_point)の作成もまた行った。
