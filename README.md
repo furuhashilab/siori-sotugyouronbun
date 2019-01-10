@@ -47,13 +47,13 @@
 内閣府は指定緊急避難場所・指定緊急避難所の指定を促しているのと同時に日本工業規格（JIS)の災害種別の図記号（JIS　Z8210)を使った[災害種別避難誘導標識システム](http://www.bousai.go.jp/kyoiku/zukigo/pdf/symbol_02.pdf) （JIS　Z9098、H28.3.22）により災害ごとの避難場所の表示を促しており、それによる災害分類の中で上記の６つに該当指定ない高潮、内水氾濫、崖崩れ、土石流、火山等の分類も区別するべきかを議論すべきだと考える。
 
 ### 5.結論
-本研究によってOpenStreetMapの目黒地区における避難所と広域避難所の情報の入力が完了し、避難所のwikiページの作成、及び日本において重要性の高い帰宅困難者支援施設のタグを新たに提案することができた。提案した議論に加えて更に細かい災害対策に関する情報をインドアマッピングで入力することで、より速やかな災害支援や避難をオープンソースで利用でき流ようになると考える。
+本研究によってOpenStreetMapの目黒地区における避難所と広域避難所の情報の入力が完了し、避難所のwikiページの作成、及び日本において重要性の高い帰宅困難者支援施設のタグを新たに提案することができた。提案した議論に加えて更に細かい災害対策に関する情報をインドアマッピングで入力することで、より速やかな災害支援や避難をオープンソースで利用できるようになると考える。
 
 ### 6.参考文献
 * [地理院地図指定緊急避難場所](https://maps.gsi.go.jp/#14/35.665021/139.695725/&base=std&ls=std%2C0.29%7Cskhb04&disp=11&lcd=skhb04&vs=c1j0h0k0l0u0t0z0r0s0f0&d=vl)
 * [渋谷区防災地図](https://www.city.shibuya.tokyo.jp/assets/detail/files/anzen_bosai_hasai_pdf_bosaimap2017.pdf)
 * [いざという時に/防災・防犯](http://www.city.meguro.tokyo.jp/iza/bohan_bosai.html)
-* [防災マップ](http://www.city.meguro.tokyo.jp/kurashi/anzen/bosai/map/bousaimap.files/2018japanmap.pdf)
+* [目黒区防災マップ](http://www.city.meguro.tokyo.jp/kurashi/anzen/bosai/map/bousaimap.files/2018japanmap.pdf)
 * [osm/wiki/tag:emergency=assembly_point](https://wiki.openstreetmap.org/wiki/JA:Tag:emergency%3Dassembly_point)
 * [osm/wiki/key:emergency](https://en.wikipedia.org/wiki/Meeting_point)
 * [WikiProject Emergency Cleanup](https://wiki.openstreetmap.org/wiki/JA:WikiProject_Emergency_Cleanup)
